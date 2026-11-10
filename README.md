@@ -80,7 +80,6 @@ A personal website showcasing my skills and projects.
 🔗 [View Published Research Paper](https://doi.org/10.15680/IJCTECE.2026.0901011) | [Download PDF](https://ijctece.com/index.php/IJCTEC/article/view/466/419)
 ---
 ## 🔗 Connect With Me
----
 <p align="center">
   <a href="https://github.com/katlashylu-cpu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
