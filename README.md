@@ -72,10 +72,20 @@ A personal website showcasing my skills and projects.
 
 ## 🔗 Connect With Me
 
-- **GitHub:** [https://github.com/katlashylu-cpu](https://github.com/katlashylu-cpu)
-- **LinkedIn:** [https://www.linkedin.com/in/katla-shylaja-07a919361/](https://www.linkedin.com/in/katla-shylaja-07a919361/)
-- **Portfolio:** [https://katlashylu-cpu.github.io/portfolio-website/](https://katlashylu-cpu.github.io/portfolio-website/)
-- **Email:** [katlashylu@gmail.com](mailto:katlashylu@gmail.com)
+<p align="center">
+  <a href="https://github.com/katlashylu-cpu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/katla-shylaja-07a919361/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://katlashylu-cpu.github.io/portfolio-website/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:katlashylu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
