@@ -90,6 +90,10 @@ A personal website showcasing my skills and projects.
 ---
 
 ⭐ Thank you for visiting my GitHub profile!
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
 ## 🐍 Contribution Activity
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/katlashylu-cpu/katlashylu-cpu/output/github-contribution-grid-snake.svg)
