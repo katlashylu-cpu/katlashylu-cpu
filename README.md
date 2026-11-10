@@ -64,7 +64,9 @@ A personal website showcasing my skills and projects.
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=katlashylu-cpu&layout=compact&theme=tokyonight)
 ## 🏆 GitHub Profile Trophies
 
-(https://gh-trophy.cdnsoft.net/?username=katlashylu-cpu&theme=tokyonight&no-frame=true&row=1&column=6)
+## 🏆 GitHub Profile Trophies
+
+![GitHub Trophies](https://trophy.ryglcloud.net/?username=katlashylu-cpu&theme=tokyonight&no-frame=true&row=1&column=6)
 ---
 
 ## 🔗 Connect With Me
