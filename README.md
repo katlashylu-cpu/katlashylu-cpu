@@ -1,5 +1,5 @@
 # Hi, I'm Katla Shylaja 👋
-[Profile Views](https://camo.githubusercontent.com/...)
+![Profile Views](https://komarev.com/ghpvc/?username=katlashylu-cpu&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 ### Python Full Stack Developer | B.Tech CSE Graduate | Aspiring Software Developer
 
