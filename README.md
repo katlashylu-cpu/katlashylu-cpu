@@ -62,6 +62,9 @@ A personal website showcasing my skills and projects.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katlashylu-cpu&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katlashylu-cpu&layout=compact&theme=tokyonight)
+## 🏆 GitHub Profile Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=katlashylu-cpu&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
