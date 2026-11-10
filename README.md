@@ -69,6 +69,17 @@ A personal website showcasing my skills and projects.
 
 ![GitHub Trophies](https://trophy.ryglcloud.net/?username=katlashylu-cpu&theme=tokyonight&no-frame=true&row=1&column=6)
 ---
+## 📚 Research Publications
+
+### AI Empowered Security Monitoring System with the Help of Deployed ML Models
+
+- **Journal:** International Journal of Computer Technology and Electronics Communication (IJCTEC)
+- **Volume:** 9, Issue 1 (2026)
+- **Pages:** 69–73
+- **Published:** February 21, 2026
+- **Authors:** Amitha K., Ram Manohar Reddy M., Yashwanth K., Shylaja K., Rahul Reddy M., Srinu B., Dr. Prasad Dharnasi
+
+🔗 [View Published Research Paper](https://doi.org/10.15680/IJCTECE.2026.0901011) | [Download PDF](https://ijctece.com/index.php/IJCTEC/article/view/466/419)
 
 ## 🔗 Connect With Me
 
