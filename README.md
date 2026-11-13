@@ -70,14 +70,6 @@ A personal website showcasing my skills and projects.
 ![GitHub Trophies](https://trophy.ryglcloud.net/?username=katlashylu-cpu&theme=tokyonight&no-frame=true&row=1&column=6)
 ---
 
-## 🏆 GitHub Profile Trophies
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=katlashylu-cpu&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies">
-</p>
-
----
-
 ## 📚 Research Publications
 
 ### AI Empowered Security Monitoring System with the Help of Deployed ML Models
