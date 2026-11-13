@@ -1,9 +1,5 @@
 # Hi, I'm Katla Shylaja 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=katlashylu-cpu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
-</p>
-
 ### Python Full Stack Developer | B.Tech CSE Graduate | Aspiring Software Developer
 
 I'm a Computer Science graduate passionate about building web applications and solving real-world problems through technology.
@@ -61,17 +57,17 @@ A personal website showcasing my skills and projects.
 🔗 [Visit My Portfolio](https://katlashylu-cpu.github.io/portfolio-website/)
 
 ---
-
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=katlashylu-cpu&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=katlashylu-cpu&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=katlashylu-cpu&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=katlashylu-cpu&layout=compact&theme=tokyonight)
 
+---
+
+## 🏆 GitHub Profile Trophies
+
+![GitHub Trophies](https://trophy.ryglcloud.net/?username=katlashylu-cpu&theme=tokyonight&no-frame=true&row=1&column=6)
 ---
 
 ## 🏆 GitHub Profile Trophies
